@@ -122,3 +122,4 @@ clear
 ./insert_data.sh
 clear
 ls --color=auto
+rm students_test.csv
